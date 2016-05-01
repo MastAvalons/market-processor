@@ -33,7 +33,6 @@ A simple example application that receives and processes currency trade requests
 
 **If you want to upgrade to a production application, It is strongly recommended to use an external database and an external ActiveMQ.**
 
-**Also it is recommended to remove the CDN libraries and use a dependency manager like bower or npm along with gulp or grunt.**
 
 ##Requirements
 
